@@ -1,0 +1,191 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Akaya Telivigala', cursive;
+  font-size: 200%;
+  line-height: 50px;
+}
+
+.top-container {
+
+  position: relative;
+  margin-top: 0;
+  background-color: #EAF6F6;
+  padding: 50px;
+  padding-bottom: 0;
+
+}
+
+hr {
+  border-top: 10px dotted #EAF6F6;
+  width: 6%;
+  border-style: dotted none none;
+  padding: 20px;
+}
+
+h1 {
+
+  font-family: 'Akaya Telivigala', cursive;
+  position: relative;
+  top: 50px;
+  margin: 0;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  color: #66BFBF;
+
+}
+
+
+h2 {
+
+  font-family: 'Moonserrat', sans-serif;
+  /* margin: 50px; */
+  padding-top: 30px;
+  font-size: 1.5rem;
+  color: #66BFBF;
+  margin: 10px auto;
+
+}
+
+h3 {
+
+  font-family: 'Moonserrat', sans-serif;
+  color: #11999E;
+  font-size: 50%;
+  width: 50%;
+
+}
+
+.desc {
+  margin: 10px auto;
+}
+
+a {
+
+  color: #11999E;
+  margin-top: 50px;
+  text-decoration: none;
+  font-family: 'Moonserrat', sans-serif;
+  font-size: 50%;
+
+}
+
+
+.top-cloud {
+
+  position: absolute;
+  top: 5%;
+  right: 20%;
+  padding-top: 50px;
+
+}
+
+.bottom-cloud {
+
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  padding-top: 50px;
+
+}
+
+.skill-row {
+
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.code_img {
+
+  width: 75px;
+  height:75px;
+  float: left;
+  padding-right: 30px;
+  padding-bottom: 50px;
+
+}
+
+.skills_pic {
+
+  width: 100px;
+  height: 100px;
+  float: right;
+  padding-left: 30px;
+
+}
+
+p {
+
+  color: #40514E;
+  font-weight: normal;
+  font-size: 50%;
+  margin: 20px auto 20px auto;
+}
+
+.skills_desc1 {
+
+  clear: left;
+
+}
+
+.skills_desc1 {
+
+  clear: right;
+
+}
+
+.contact-me {
+  width: 50%;
+  margin: 10px auto;
+
+}
+
+.button{
+
+  margin: none;
+  border: 5px solid #66BFBF ;
+  border-radius: 10px;
+  background-color: #66BFBF ;
+  font-size : 100%;
+  color: white;
+
+
+}
+
+.temp_png {
+
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  float: left;
+
+}
+
+.contact {
+
+  width: 100px;
+  height: 100px;
+
+
+}
+
+.linkedin {
+  color: #11999E;
+}
+
+#profile_pic {
+
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 150px;
+  margin-bottom: 0;
+}
